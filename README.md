@@ -22,7 +22,7 @@
 - 🎶 Music is my energy when coding  
 
 <p align="center">
-  <img src="https://media.tenor.com/0acr3HmtT48AAAAM/hmm.gif" width="50%"/>
+  <img src="https://media.tenor.com/wIBG1FECcl0AAAAM/sakura-flower.gif" width="50%"/>
 </p>
 
 ---
