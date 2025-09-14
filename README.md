@@ -41,10 +41,8 @@
 - 🎮 **Mini Games & Calculator with Java** — learning OOP concepts  
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/O25jw5D6ZtUAAAAC/sakura-discord.gif" width="50%"/>
+  <img src="https://media1.tenor.com/m/O25jw5D6ZtUAAAAC/sakura-discord.gif" width="100%"/>
 </p>
-
-
 
 ---
 
