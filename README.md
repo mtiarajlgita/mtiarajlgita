@@ -62,34 +62,17 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtiarajlgita&theme=tokyonight" width="48%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=9B1C54&text_color=333333&icon_color=E75480&border_radius=20" 
+    height="180px"
+  /> 
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=mtiarajlgita&hide_border=true&background=ffffff&stroke=9B1C54&ring=E75480&fire=E75480&currStreakLabel=9B1C54&sideNums=9B1C54&sideLabels=E75480&dates=333333&border_radius=20" 
+    height="180px"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mtiarajlgita&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1&column=6" />
-</p>
 
----
 
-## 🌈 Fun Facts
-- ✨ Always experimenting with **colorful designs**  
-- 🎧 Music + Coffee = Perfect Coding Combo  
-- 🌌 Night owl who loves stargazing  
-- 💡 Believes in *"Turning Ideas into Reality"*  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif" width="200" alt="Stars"/>
-</p>
-
----
-
-## 🌊 Wavy Ending
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
-</div>
