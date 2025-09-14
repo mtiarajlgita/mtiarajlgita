@@ -18,7 +18,7 @@
 - 🎓 Informatics student with a deep interest in **Web Development & UI/UX Design**  
 - 💻 Exploring **Laravel, Codeigniter, Python Framework, & CSS Framework**   
 - 🎨 Enjoy creating **modern & aesthetic designs** on Canva/Figma  
-- ☕ Ice Cream addict + night coder 🌙  
+- ☕ Coffee & ice cream addict + night coder 🌙  
 - 🎶 Music is my energy when coding  
 
 <p align="center">
