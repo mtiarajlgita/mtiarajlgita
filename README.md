@@ -47,8 +47,10 @@
 - 🎮 **Mini Games with Java** — learning OOP concepts  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="200" alt="Projects Animation"/>
+  <img src="https://media.tenor.com/ByRg1j4LTF0AAAAM/kiss-happy.gif" width="50%" alt="Coding Gif"/>
 </p>
+
+
 
 ---
 
