@@ -22,7 +22,7 @@
 - 🎶 Music is my energy when coding  
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/zaTs96sqsgwAAAAC/yachiyo-apocalypse.gif" width="50%" alt="Coding Gif"/>
+  <img src="https://media.tenor.com/8xfwur3JV1QAAAAM/rose-flower.gif" width="50%" alt="Coding Gif"/>
 </p>
 
 ---
@@ -34,8 +34,8 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="120" />
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="120" />
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120" />
+  <img src="https://media.tenor.com/YImtQZBhFG0AAAAM/red-butterfly.gif" width="120" />
+  <img src="https://media.tenor.com/Seb3i7VwHg8AAAAM/aesthetic-cute.gif" width="120" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 - 🎮 **Mini Games with Java** — learning OOP concepts  
 
 <p align="center">
-  <img src="https://media.tenor.com/ByRg1j4LTF0AAAAM/kiss-happy.gif" width="50%" alt="Coding Gif"/>
+  <img src="https://media1.tenor.com/m/PH1Q9TgHTpEAAAAC/redhair.gif" width="50%" alt="Coding Gif"/>
 </p>
 
 
