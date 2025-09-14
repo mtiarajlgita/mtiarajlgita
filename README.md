@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/mtiaarjlgita/mtiaarjlgita/blob/main/assets/images/banner%20github%20mtiarajlgita.jpg?raw=true" alt="Welcome Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Mutiara J. Legita</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
