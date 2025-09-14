@@ -22,7 +22,7 @@
 - 🎶 Music is my energy when coding  
 
 <p align="center">
-  <img src="https://media.tenor.com/2xQAfAkwBbgAAAAM/red-cresent-moon.gif" width="50%" alt="Coding Gif"/>
+  <img src="https://media.tenor.com/zMAp0iXHEeIAAAAM/anime-aesthetic.gif" width="50%"/>
 </p>
 
 ---
@@ -30,12 +30,6 @@
 ## 🚀 Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,react,django,bootstrap,tailwind,vscode,git,github,figma,canva" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="120" />
-  <img src="https://media.tenor.com/YImtQZBhFG0AAAAM/red-butterfly.gif" width="120" />
-  <img src="https://media.tenor.com/Seb3i7VwHg8AAAAM/aesthetic-cute.gif" width="120" />
 </p>
 
 ---
