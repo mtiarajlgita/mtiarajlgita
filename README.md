@@ -36,9 +36,9 @@
 
 ## 📂 Featured Projects
 - 🌐 **Personal Portfolio Website** — responsive design + modern UI  
-- 📝 **Blog Platform** — built with Django & Bootstrap  
+- 📝 **Blog Platform** — built with Codeigniter & Bootstrap  
 - 📊 **Student Data System** — PHP + MySQL  
-- 🎮 **Mini Games with Java** — learning OOP concepts  
+- 🎮 **Mini Games & Calculator with Java** — learning OOP concepts  
 
 <p align="center">
   <img src="https://media1.tenor.com/m/PH1Q9TgHTpEAAAAC/redhair.gif" width="50%" alt="Coding Gif"/>
@@ -50,7 +50,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.instagram.com/your_instagram" target="_blank">
+  <a href="https://www.instagram.com/mtiarajlgita" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.gg/yourserver" target="_blank">
