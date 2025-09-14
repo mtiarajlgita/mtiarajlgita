@@ -22,7 +22,7 @@
 - 🎶 Music is my energy when coding  
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/RZf8r1WgBT0AAAAC/surprise-surprised.gif" width="50%"/>
+  <img src="https://media1.tenor.com/m/RZf8r1WgBT0AAAAC/surprise-surprised.gif" width="100%"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 - 🎮 **Mini Games & Calculator with Java** — learning OOP concepts  
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/O25jw5D6ZtUAAAAC/sakura-discord.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/31vc7LeW8mUAAAAC/cherry-blossom-blossom.gif" width="100%"/>
 </p>
 
 ---
