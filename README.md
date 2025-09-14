@@ -1,22 +1,69 @@
 ![Welcome Banner](assets/images/banner%20github%20mtiarajlgita.jpg)
 
-<h1 align="center">Hi 👋, I'm Mutiara J. Legita</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<!-- Import Poppins Font -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-- 🌱 I’m currently learning **Flask, Django, Etc**
+<div style="font-family:Poppins, sans-serif">
 
-- 💬 Ask me about **MySQL, PHP, and Java**
+<h2 align="center">Hi 👋, I'm <b>Mutiara J. Legita</b></h2>
 
-- 📫 How to reach me **mtiarajlgita.dev@gmail.com**
-
-- ⚡ Fun fact **I think i'm crazy and so cute.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mtiarajlgita_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mtiarajlgita_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=A+Frontend+Developer;Informatics+Student;Loves+Design+%26+Code;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
+## 👩‍💻 About Me
+- 🎓 Informatics student, passionate about **frontend development** and web design.  
+- 🌱 Currently learning **Flask, Django, and React**.  
+- 💬 Open to collaborate on **MySQL, PHP, and Java** projects.  
+- 📫 Reach me at: **mtiaarjlgita.dev@gmail.com**  
+- 💡 Motto: *"Code is my canvas, and logic is my brush."*  
+
+---
+
+## 🚀 Skills & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,react,django,bootstrap,tailwind,vscode,git,github" />
+</p>
+
+---
+
+## 📂 Featured Projects
+- 🌐 **Personal Portfolio Website** — A fully responsive web portfolio with modern UI.  
+- 📊 **Student Data Management System** — Built with PHP + MySQL.  
+- 📝 **Blog Platform** — Powered by Django + Bootstrap.  
+- 🎮 **Mini Games with Java** — Small projects exploring OOP in Java.  
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.instagram.com/your_instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/yourserver" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:mtiaarjlgita.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&theme=radical&font=Poppins" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtiarajlgita&theme=radical&date_format=j%20M%5B%20Y%5D&font=Poppins" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## ✨ Fun Facts
+- 🖌️ I love mixing **art & technology** in my projects.  
+- 🌸 I enjoy designing on **Canva & Figma** when I’m not coding.  
+- 🎶 Music helps me focus while coding.  
+- ☕ Coffee is my best debugging partner.  
+
+</div>
