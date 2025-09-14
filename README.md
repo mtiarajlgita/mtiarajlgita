@@ -9,20 +9,20 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Informatics+Student+%F0%9F%93%9A;Design+%2B+Code+Lover+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%92%AB" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Website+Developer+%F0%9F%92%BB;Informatics+Student+%F0%9F%93%9A;Design+%2B+Code+Lover+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%92%AB" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🌸 About Me
 - 🎓 Informatics student with a deep interest in **Web Development & UI/UX Design**  
-- 💻 Exploring **Django, Flask, React** frameworks  
+- 💻 Exploring **Laravel, Codeigniter, Python Framework, & CSS Framework**   
 - 🎨 Enjoy creating **modern & aesthetic designs** on Canva/Figma  
-- ☕ Coffee addict + night coder 🌙  
+- ☕ Ice Cream addict + night coder 🌙  
 - 🎶 Music is my energy when coding  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Coding Gif"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50%" alt="Coding Gif"/>
 </p>
 
 ---
