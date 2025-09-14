@@ -22,7 +22,7 @@
 - 🎶 Music is my energy when coding  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50%" alt="Coding Gif"/>
+  <img src="https://media.tenor.com/RXpiLts0y6EAAAAi/jade-unjaded.gif" width="50%" alt="Coding Gif"/>
 </p>
 
 ---
