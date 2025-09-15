@@ -61,58 +61,42 @@
 
 ---
 ## 📊 GitHub Stats & Activity
-
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!-- Main Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&count_private=true&hide_border=true&bg_color=fffaf4&title_color=9B1C54&text_color=333333&icon_color=E75480" 
-    height="200"
-  />
-  
-  <!-- GitHub Streak -->
+    src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=600&title_color=ff66cc&text_color=f5f5dc&icon_color=ff66cc&bg_color=00000000" 
+    alt="GitHub Stats" 
+    height="180px"/>
+
+  <!-- Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mtiarajlgita&hide_border=true&background=fffaf4&stroke=9B1C54&ring=E75480&fire=E75480&currStreakLabel=9B1C54&sideNums=9B1C54&sideLabels=E75480&dates=333333" 
-    height="200"
-  />
-
-</div>
-
----
-
-<div align="center">
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mtiarajlgita&theme=transparent&ring=ff66cc&fire=ff66cc&currStreakLabel=f5f5dc&sideLabels=f5f5dc&dates=f5f5dc&stroke=ff66cc&background=00000000" 
+    alt="GitHub Streak" 
+    height="180px"/>
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtiarajlgita&layout=compact&langs_count=10&hide_border=true&bg_color=fffaf4&title_color=9B1C54&text_color=333333&icon_color=E75480" 
-    width="70%"
-  />
-
-</div>
-
----
-
-<div align="center">
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtiarajlgita&layout=compact&cache_seconds=600&title_color=ff66cc&text_color=f5f5dc&bg_color=00000000" 
+    alt="Top Languages" 
+    height="180px"/>
 
   <!-- Contribution Graph -->
+  <!-- Activity Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mtiarajlgita&bg_color=fffaf4&color=9B1C54&line=E75480&point=E75480&area_color=E75480&area=true&hide_border=true" 
-    width="95%"
-  />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mtiarajlgita&bg_color=00000000&color=f5f5dc&line=ff66cc&point=ff99dd&area=true&hide_border=true&custom_title=✨%20Contribution%20Graph%20✨" 
+    alt="Activity Graph" 
+    height="300px"/>
+
+  <!-- Language Pie Chart -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&custom_title=⌛%20WakaTime%20Stats&title_color=ff66cc&text_color=f5f5dc&bg_color=00000000" 
+    alt="WakaTime Stats" 
+    height="300px"/>
 
 </div>
 
 ---
-
-<div align="center">
-
-  <!-- GitHub Trophy -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=mtiarajlgita&theme=flat&no-frame=true&margin-w=15&margin-h=15&row=1&column=6&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" 
-    width="95%"
-  />
-
-</div>
 
 _Last updated: 2025-09-16 00:00:00 UTC_
 
