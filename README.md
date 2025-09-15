@@ -61,16 +61,62 @@
 
 ---
 ## 📊 GitHub Stats & Activity
-<p align="center">
+
+<div align="center">
+
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=9B1C54&text_color=333333&icon_color=E75480&border_radius=20" 
-    height="180px"
-  /> 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=mtiarajlgita&hide_border=true&background=ffffff&stroke=9B1C54&ring=E75480&fire=E75480&currStreakLabel=9B1C54&sideNums=9B1C54&sideLabels=E75480&dates=333333&border_radius=20" 
-    height="180px"
+    src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&count_private=true&hide_border=true&bg_color=fffaf4&title_color=9B1C54&text_color=333333&icon_color=E75480" 
+    height="200"
   />
-</p>
+  
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mtiarajlgita&hide_border=true&background=fffaf4&stroke=9B1C54&ring=E75480&fire=E75480&currStreakLabel=9B1C54&sideNums=9B1C54&sideLabels=E75480&dates=333333" 
+    height="200"
+  />
 
+</div>
 
+---
 
+<div align="center">
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtiarajlgita&layout=compact&langs_count=10&hide_border=true&bg_color=fffaf4&title_color=9B1C54&text_color=333333&icon_color=E75480" 
+    width="70%"
+  />
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- Contribution Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mtiarajlgita&bg_color=fffaf4&color=9B1C54&line=E75480&point=E75480&area_color=E75480&area=true&hide_border=true" 
+    width="95%"
+  />
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- GitHub Trophy -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=mtiarajlgita&theme=flat&no-frame=true&margin-w=15&margin-h=15&row=1&column=6&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" 
+    width="95%"
+  />
+
+</div>
+
+---
+
+<!-- Efek kelap-kelip -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=E75480&height=100&section=footer&animation=twinkling&fontColor=fffaf4" width="100%"/>
+</div>
