@@ -82,18 +82,17 @@
     height="180px"/>
 
   <!-- Contribution Graph -->
+  <!-- Language Pie Chart -->
+  <img 
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=mtiarajlgita&layout=compact&custom_title=⌛%20WakaTime%20Stats&title_color=ff66cc&text_color=f5f5dc&bg_color=00000000" 
+  alt="WakaTime Stats" 
+  height="300px"/>
+
   <!-- Activity Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=mtiarajlgita&bg_color=00000000&color=f5f5dc&line=ff66cc&point=ff99dd&area=true&hide_border=true&custom_title=✨%20Contribution%20Graph%20✨" 
     alt="Activity Graph" 
     height="300px"/>
-
-  <!-- Language Pie Chart -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&custom_title=⌛%20WakaTime%20Stats&title_color=ff66cc&text_color=f5f5dc&bg_color=00000000" 
-    alt="WakaTime Stats" 
-    height="300px"/>
-
 </div>
 
 ---
