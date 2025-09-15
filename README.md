@@ -113,10 +113,3 @@
   />
 
 </div>
-
----
-
-<!-- Efek kelap-kelip -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=E75480&height=100&section=footer&animation=twinkling&fontColor=fffaf4" width="100%"/>
-</div>
