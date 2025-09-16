@@ -60,12 +60,13 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats & Activity
 <div align="center">
 
   <!-- Main Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=600&title_color=ff66cc&text_color=f5f5dc&icon_color=ff66cc&bg_color=00000000" 
+    src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&count_private=true" 
     alt="GitHub Stats" 
     height="180px"/>
 
@@ -77,16 +78,15 @@
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtiarajlgita&layout=compact&cache_seconds=600&title_color=ff66cc&text_color=f5f5dc&bg_color=00000000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtiarajlgita&layout=compact" 
     alt="Top Languages" 
     height="180px"/>
 
-  <!-- Contribution Graph -->
-  <!-- Language Pie Chart -->
+  <!-- WakaTime Stats -->
   <img 
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=mtiarajlgita&layout=compact&custom_title=⌛%20WakaTime%20Stats&title_color=ff66cc&text_color=f5f5dc&bg_color=00000000" 
-  alt="WakaTime Stats" 
-  height="300px"/>
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=mtiarajlgita&layout=compact&custom_title=⌛%20WakaTime%20Stats" 
+    alt="WakaTime Stats" 
+    height="300px"/>
 
   <!-- Activity Graph -->
   <img 
@@ -98,4 +98,3 @@
 ---
 
 _Last updated: 2025-09-16 00:00:00 UTC_
-
