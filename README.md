@@ -1,100 +1,105 @@
 ![Welcome Banner](assets/images/banner%20github%20mtiarajlgita.jpg)
 
-<!-- Import Poppins -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-
-<div style="font-family:Poppins, sans-serif">
-
-<h2 align="center">✨ Hi 👋, I'm <b>Mutiara J. Legita</b> ✨</h2>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Website+Developer+%F0%9F%92%BB;Informatics+Student+%F0%9F%93%9A;Design+%2B+Code+Lover+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%92%AB" alt="Typing Animation" />
-</p>
-
----
-
-## 🌸 About Me
-- 🎓 Informatics student with a deep interest in **Web Development & UI/UX Design**  
-- 💻 Exploring **Laravel, Codeigniter, Python Framework, & CSS Framework**   
-- 🎨 Enjoy creating **modern & aesthetic designs** on Canva/Figma  
-- ☕ Coffee & ice cream addict + night coder 🌙  
-- 🎶 Music is my energy when coding  
+<!-- DYNAMIC TYPING HEADER -->
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/RZf8r1WgBT0AAAAC/surprise-surprised.gif" width="100%"/>
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DCinzel%26size%3D24%26duration%3D4000%26pause%3D1000%26color%3D4A0E0E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DRAYXILEE%2BCREATIVE%2BTECH%3BTHE%2BINFINITE%2BARCHITECT%3BWEB%2BDEVELOPER%2B%2526%2BWRITER%3BLIMITLESS%2BPOSSIBILITIES" alt="Typing Animation" />
 </p>
 
----
+🌒 MUTIARA J. LEGITA
 
-## 🚀 Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,react,django,bootstrap,tailwind,vscode,git,github,figma,canva" />
-</p>
+"Expanding the boundaries of logic, defining the aesthetics of code."
 
----
+<!-- SOCIAL BADGES (CUSTOM MAROON & CREAM) -->
 
-## 📂 Featured Projects
-- 🌐 **Personal Portfolio Website** — responsive design + modern UI  
-- 📝 **Blog Platform** — built with Codeigniter & Bootstrap  
-- 📊 **Student Data System** — PHP + MySQL  
-- 🎮 **Mini Games & Calculator with Java** — learning OOP concepts  
+<a href="https://www.instagram.com/mtiarajlgita" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-4A0E0E%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3DFFFDD0"/>
+</a>
+<a href="mailto:mtiaarjlgita.dev@gmail.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-4A0E0E%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3DFFFDD0"/>
+</a>
+<a href="https://www.google.com/search?q=https://github.com/mtiarajlgita" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-4A0E0E%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3DFFFDD0"/>
+</a>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/31vc7LeW8mUAAAAC/cherry-blossom-blossom.gif" width="100%"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.instagram.com/mtiarajlgita" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:mtiaarjlgita.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-<div align="center">
-
-  <!-- Main Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&count_private=true" 
-    alt="GitHub Stats" 
-    height="180px"/>
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mtiarajlgita&theme=transparent&ring=ff66cc&fire=ff66cc&currStreakLabel=f5f5dc&sideLabels=f5f5dc&dates=f5f5dc&stroke=ff66cc&background=00000000" 
-    alt="GitHub Streak" 
-    height="180px"/>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtiarajlgita&layout=compact" 
-    alt="Top Languages" 
-    height="180px"/>
-
-  <!-- WakaTime Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=mtiarajlgita&layout=compact&custom_title=⌛%20WakaTime%20Stats" 
-    alt="WakaTime Stats" 
-    height="300px"/>
-
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mtiarajlgita&bg_color=00000000&color=f5f5dc&line=ff66cc&point=ff99dd&area=true&hide_border=true&custom_title=✨%20Contribution%20Graph%20✨" 
-    alt="Activity Graph" 
-    height="300px"/>
 </div>
 
----
+👁️ The Six Eyes Perspective (About Me)
 
-_Last updated: 2025-09-16 00:00:00 UTC_
+<table border="0" width="100%">
+<tr>
+<td width="60%" valign="top">
+<p>
+Saya adalah mahasiswi <b>Informatika</b> di UIN Bukittinggi yang menjembatani dunia logika pemrograman dengan narasi estetika. Di bawah bendera <b>Rayxilee</b>, saya mengembangkan solusi digital yang tidak hanya fungsional, tetapi juga memiliki jiwa kreatif.
+</p>
+<ul>
+<li>🎓 <b>Akademik:</b> Fokus pada Web Development & UI/UX Design.</li>
+<li>🖋️ <b>Kreatif:</b> Penulis fiksi (Dark Romance/Thriller) yang mencintai alur kompleks.</li>
+<li>☕ <b>Ritual:</b> Night coder bertenaga es krim & musik yang melankolis.</li>
+</ul>
+</td>
+<td width="40%" align="center">
+<!-- GIF AESTHETIC (MAROON THEMED) -->
+<img src="https://media1.tenor.com/m/RZf8r1WgBT0AAAAC/surprise-surprised.gif" width="100%" style="border-radius: 10px;"/>
+</td>
+</tr>
+</table>
+
+🌌 Domain Expansion: Skills & Cursed Tools
+
+<div align="center">
+
+
+
+
+
+<!-- SKILL ICONS (COLOR CUSTOMIZED) -->
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,php,mysql,python,java,react,django,bootstrap,tailwind,vscode,git,github,figma,canva%26theme%3Ddark" />
+
+
+
+
+
+<p><i>"Logic is my blue, Aesthetic is my red. Together, they create my Purple."</i></p>
+</div>
+
+🏛️ Infinite Repository (Featured Projects)
+
+💠 Computer Lab Reservation System — Sistem arsitektur logis untuk manajemen lab universitas.
+
+💠 Informatics '24 Hub — Portofolio kolektif angkatan dengan sentuhan UI modern.
+
+💠 Personal Blog Platform — Tempat di mana kode bertemu dengan narasi cerita.
+
+📊 Cursed Energy Statistics
+
+<div align="center">
+
+<!-- MAIN STATS (CUSTOM THEMED MAROON & CREAM) -->
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmtiarajlgita%26show_icons%3Dtrue%26count_private%3Dtrue%26bg_color%3DFFFDD0%26title_color%3D4A0E0E%26icon_color%3D4A0E0E%26text_color%3D2D0909%26border_color%3D4A0E0E%26hide_border%3Dfalse" height="180px"/>
+
+<!-- STREAK STATS -->
+
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmtiarajlgita%26theme%3Dmaroon%26background%3DFFFDD0%26ring%3D4A0E0E%26sideNums%3D4A0E0E%26stroke%3D4A0E0E%26dates%3D2D0909" height="180px"/>
+
+<!-- TOP LANGUAGES -->
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmtiarajlgita%26layout%3Dcompact%26bg_color%3DFFFDD0%26title_color%3D4A0E0E%26text_color%3D2D0909%26border_color%3D4A0E0E" height="180px"/>
+
+<!-- CONTRIBUTION GRAPH -->
+
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dmtiarajlgita%26bg_color%3DFFFDD0%26color%3D4A0E0E%26line%3D4A0E0E%26point%3DB0E0E6%26area%3Dtrue%26hide_border%3Dtrue%26custom_title%3D✨%20Infinity%20Contribution%20Graph%20✨" width="100%"/>
+
+</div>
+
+<div align="center">
+<p><i>"Don't worry, I'm the strongest." — Satoru Gojo</i></p>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmtiarajlgita%26color%3D4A0E0E%26style%3Dflat-square%26label%3DDOMAIN%2BVISITORS" alt="Profile Views" />
+
+
+
+
+
+<sub>Last updated: 2026-04-09 12:00:00 UTC</sub>
+</div>
