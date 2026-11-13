@@ -1,4 +1,4 @@
-![Welcome Banner](assets/images/banner%20github%20mtiarajlgita.jpg)
+![Welcome Banner](assets/images/rayz_banner.jpg)
 
 # 💫 About Me :
 - 🔭 I’m currently working on :  <br>  Building web projects & leveling up my frontend-backend skills  <br><br>- 👯 I’m looking to collaborate on :  <br>  Web development projects, UI/UX design, or anything creative tech  <br><br>- 🤝 I’m looking for help with :  <br>  Advanced backend, API integration, and system architecture  <br><br>- 🌱 I’m currently learning :  <br>  JavaScript ecosystem, React, and Data Science fundamentals  <br><br>- 💬 Ask me about :  <br>  Web dev, design aesthetics, or productivity  <br><br>- ⚡ Fun fact :  <br>  I don't chase motivation — I build discipline
