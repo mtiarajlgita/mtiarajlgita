@@ -5,7 +5,7 @@
 
 <!-- Welcome Banner Image -->
 <p align="center">
-  <img src="assets/images/rayz_banner.jpg" alt="Welcome Banner" width="100%" />
+  <img src="assets/images/rayz.png" alt="Welcome Banner" width="100%" />
 </p>
 
 <div align="center">
@@ -70,30 +70,22 @@ I'm **Mutiara Joni Legita**, a developer dedicated to building maintainable web 
 
 ### 🎨 Frontend, Interface & Styling
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,alpinejs,vite,figma&perline=7" height="58" alt="Frontend Icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,alpinejs,vite,figma&perline=7" height="58" alt="Frontend Icons" />
 </p>
 
 ### ⚙️ Backend, Databases & API
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman&perline=4" height="58" alt="Backend Icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman&perline=4" height="58" alt="Backend Icons" />
 </p>
 
 ### 🤖 AI, Computer Vision & Data
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,anaconda&perline=4" height="58" alt="AI and Vision Icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,anaconda&perline=4" height="58" alt="AI and Vision Icons" />
 </p>
 
 ### 🛠️ Development Workflow
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="58" alt="Tools Icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="58" alt="Tools Icons" />
 </p>
 
 </div>
@@ -104,20 +96,12 @@ I'm **Mutiara Joni Legita**, a developer dedicated to building maintainable web 
 
 <div align="center">
 
-<!-- Language Distribution Donut/Pie Chart -->
-<h3>🍩 Language Distribution</h3>
+<!-- GitHub Activity Badges (Anti-Broken / 100% Stable) -->
+<h3>🚀 GitHub Overview & Activity</h3>
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mtiarajlgita&theme=radical&bg_color=151117&title_color=F3A6CC&text_color=FAEEFC&icon_color=EA4898" width="48%" alt="Top Languages Donut Chart" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtiarajlgita&theme=radical&bg_color=151117&title_color=F3A6CC&text_color=FAEEFC&icon_color=EA4898" width="48%" alt="Repos Per Language Pie Chart" />
-</p>
-
-<br/>
-
-<!-- GitHub Stats & Streak -->
-<h3>🔥 GitHub Overview & Streak</h3>
-<p>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mtiarajlgita&show_icons=true&hide_border=true&rank_icon=github&bg_color=151117&title_color=F3A6CC&icon_color=EA4898&text_color=FAEEFC" alt="GitHub Statistics" />
-  <img height="175" src="https://streak-stats.demolab.com?user=mtiarajlgita&hide_border=true&background=151117&ring=EA4898&fire=F3A6CC&currStreakLabel=E776AC&sideLabels=FAEEFC&currStreakNum=FAEEFC&sideNums=F3A6CC&dates=B774A7" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/mtiarajlgita?color=E776AC&label=GitHub%20Followers&style=for-the-badge&logo=github&labelColor=181018" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/mtiarajlgita?color=EA4898&label=Public%20Repositories&style=for-the-badge&logo=github&labelColor=181018" alt="Repositories" />
+  <img src="https://img.shields.io/github/stars/mtiarajlgita?color=B774A7&label=Total%20Stars&style=for-the-badge&logo=github&labelColor=181018" alt="Stars" />
 </p>
 
 <br/>
@@ -138,13 +122,11 @@ I'm **Mutiara Joni Legita**, a developer dedicated to building maintainable web 
 
 <div align="center">
 
-<a href="https://wakatime.com/@mtiarajlgita">
-  <img src="https://wakatime.com/badge/user/@mtiarajlgita.svg" alt="WakaTime coding time" />
+<a href="https://wakatime.com/@mtiarajlgita" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/WakaTime-Total%3A%20133%20hrs%2055%20mins-E776AC?style=for-the-badge&logo=wakatime&labelColor=181018" alt="WakaTime Total Time" />
+  <img src="https://img.shields.io/badge/Top%20Language-PHP%20%2F%20HTML-EA4898?style=for-the-badge&logo=wakatime&labelColor=181018" alt="WakaTime Top Language" />
+  <img src="https://img.shields.io/badge/Primary%20Editor-VS%20Code-B774A7?style=for-the-badge&logo=visualstudiocode&labelColor=181018" alt="WakaTime Editor" />
 </a>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mtiarajlgita&layout=compact&hide_border=true&bg_color=151117&title_color=F3A6CC&text_color=FAEEFC" alt="WakaTime Weekly Stats" />
 
 </div>
 
